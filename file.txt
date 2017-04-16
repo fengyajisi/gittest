@@ -1,2 +1,4 @@
 this is file 1 test.
 I changes for git diff and status command.
+git tracks change.
+
